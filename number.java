@@ -4,14 +4,11 @@ public class  login user
 
 	{
 		int i;
-		for(i=0;i<=38;i++){
+		for(i=0;i<=85;i++){
 
 
 			system.out.println("number: +i);
 		
 		
 
-		
-		                                                                                                                                              
-		
-		}
+	}
